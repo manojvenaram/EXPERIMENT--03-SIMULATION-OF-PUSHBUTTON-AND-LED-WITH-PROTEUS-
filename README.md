@@ -172,12 +172,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 ![](2.jpeg)
-
+![](1.jpeg)
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
 ![](1.jpeg)
-![](3.jpeg)
+![](3.png)
  
  
  
