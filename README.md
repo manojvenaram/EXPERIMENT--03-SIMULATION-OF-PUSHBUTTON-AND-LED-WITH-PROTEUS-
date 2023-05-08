@@ -176,7 +176,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
-![](1.jpeg) 
+![](1.jpeg)
+![](3.jpeg)
  
  
  
